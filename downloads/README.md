@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [Euphoria.Us.S03E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL](./Euphoria.Us.S03E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL)
 
 ---
 
